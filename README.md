@@ -2,5 +2,5 @@
 First Repository
 Hello
 
-Keith here. Love my pointer dogs and basketball.
+Keith Downing here.  Excited to learn more about programming and software development.
 Like the person who created this walk-through, I like tacos.
